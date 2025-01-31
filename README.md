@@ -2,7 +2,17 @@
 
 ###
 
-<h6 align="left">🔭 I’m currently working on Nothing<br><br>🌱 I’m currently learning Artificial Intelligence<br><br>💬 My Hobbies are: Watching Anime , Reading Novels and Football<br><br>📫 How to reach me kennnooo@proton.me<br><br>⚡ Fun fact I am Funny</h6>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🔭 I’m currently working on **Nothing**
+
+- 🌱 I’m currently learning **Artificial Intelligence**
+
+- 💬 My Hobbies are: **Watching Anime** , **Reading Novels** and **Football**
+ 
+- 📫 How to reach me **kennnooo@proton.me**
+
+- ⚡ Fun fact **I am Funny**
 
 ###
 
@@ -10,7 +20,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kennnooo.Kennnooo&"  />
 </div>
 
-###
+<h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -64,9 +74,9 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"  />
+ 
 
-###
+<h3 align="left">Connect with me:</h3>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
