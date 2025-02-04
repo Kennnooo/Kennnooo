@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 My Hobbies are: **Watching Anime** , **Reading Novels** and **Football**
+- 💬 My Hobbies are: **Watching Anime** , **Reading Novels** , **Playing Football and Video Games**
  
 - 📫 How to reach me **kennnooo@proton.me**
 
