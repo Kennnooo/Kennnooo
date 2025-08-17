@@ -2,13 +2,12 @@
 
 ###
 
-I'm Aarav, a Software Engineer specializing in Frontend Development. <br>
-I love building clean, responsive websites and exploring the latest in web tech.
+I'm Aarav, a Software Engineer who started out specializing in Frontend Development.
+I loved building clean, responsive websites and exploring the latest in web tech.
 
-I'm currently working on real-world frontend projects and also refining my React , Git and advanced Javascript.
-I Believe great design starts with great code!
+Now, I’m fully diving into AI and Generative AI, refining my skills and shifting my focus toward the future of technology. I like to think of myself as an ex-Frontend developer turned AI learner — because I believe great design starts with great code, and now, great intelligence.
 
-Except for programming, I enjoy watching anime, playing games and touching grass.
+Except for programming, I enjoy watching anime, playing games, and touching grass.
 
 ###
 <br clear="both">
