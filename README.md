@@ -2,7 +2,7 @@
 
 ###
 
-I'm Aarav, a Software Engineer who started out specializing in Frontend Development.
+I'm Aarav, a Student who likes to create random things.
 I loved building clean, responsive websites and exploring the latest in web tech.
 
 Now, I’m fully diving into AI and Generative AI, refining my skills and shifting my focus toward the future of technology. I like to think of myself as an ex-Frontend developer turned AI learner — because I believe great design starts with great code, and now, great intelligence.
